@@ -1,0 +1,37 @@
+### COMPLETED: 
+- Top menu
+- Implement tabs
+- Delete all entities before frame 
+	- delete frame before deleting tab
+- Rewrite with classes
+- Ability to create multiple tabs
+- Put main text boxes in the tab frames
+- Opening file explorer
+
+--------------------------------------------------
+### PLAN / CURRENT DEVELOPMENT:
+
+- Saving and naming files ---FIX---
+- Help menu button with a brief in app user manual
+- Implement any wanted keybinds --Add More--
+
+--------------------------------------------------
+### POSSIBLE FEATURES / (some easier than others):
+
+- Tab renames to file name (or just a way to name the tabs)
+
+- Saveable in .txt and .py
+	-> Open a terminal window button (to quickly run python)(possible??)
+
+- Dark mode (toggle)
+
+- Some basic python syntax text coloring (possible??)
+	-> togglable in settings menu (radio button?)	
+
+- Make a split screen mode using Panes 
+	-> https://www.youtube.com/watch?v=9Hyltpk2tSM 
+
+- Line numbering like an IDE (use panes?)
+
+- EndGame - Make the program a .exe executable 
+	-> https://www.youtube.com/watch?v=QWqxRchawZY
