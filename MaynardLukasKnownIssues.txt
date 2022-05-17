@@ -1,0 +1,19 @@
+
+I have had many problems with this project.
+There have been to many to remember fully but here are some of the bigger ones.
+---------------------------------------------
+FIXED PROBLEMS:
+	
+Almost all of the problems are Tab related.	
+- Tabs all had the same textbox.
+- Closing file closed all files/ other tab contents.
+- Creating new tabs didn't include textboxes.
+
+---------------------------------------------
+CURRENT KNOWN PROBLEMS:
+- When clicking cancel while opening file a new tab is still made.
+- Pasting with the edit menu doesn't work if text was copyed/cut with keybinds first.
+- Pasting with edit meny while multiple tabs are open pastes only on the last tab.
+- If there are a large amount of tabs, closing them in a strange order will sometimes cause some to have their textbox deleted.
+- Save As only saves the last file in the tab list.
+- Aspect ratio is strange on other devices and resizability is not currently working
